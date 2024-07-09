@@ -1,0 +1,5 @@
+bot_url = ''
+shopId = ''
+BOT_TOKEN = ''
+yookassa_key = ''
+SPREADSHEET_URL = ''
